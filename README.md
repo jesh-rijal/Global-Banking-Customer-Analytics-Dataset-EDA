@@ -54,12 +54,6 @@ The dataset contains banking customer records and financial information used to 
 * 🎨 Seaborn
 * 📓 Jupyter Notebook
 
-### ⏬📦 Install Required Libraries
-
-```bash
-pip install pandas numpy matplotlib seaborn notebook
-```
-
 ---
 
 # 📁 Project Structure
